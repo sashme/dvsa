@@ -8,6 +8,7 @@
 // 3. follow steps to enable it:
 // https://developer.apple.com/documentation/safariservices/safari_web_extensions/running_your_safari_web_extension
 // 4. replace manifest with provided one;
+// 5. in settings allow this extension to be used for any website;
 //
 // How To Use:
 // 1. navigate to the page of booking/changing the practice exam slot:
